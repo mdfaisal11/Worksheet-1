@@ -24,7 +24,7 @@ int main()
             }
         }
     }
-    cout<<"Number in ascending order :"<<endl;
+    cout<<"Number is in ascending order :"<<endl;
     for (int i=0;i<n;i++)
     {
         cout<<num[i]<<" ";
