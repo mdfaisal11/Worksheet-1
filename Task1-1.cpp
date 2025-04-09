@@ -7,7 +7,7 @@ class Temperature
 public:
     void getData()
     {
-        cout<<"Enter The Temperature :"<<endl;
+        cout<<"Enter any Temperature :"<<endl;
         cin>>ip;
     }
     void getOption()
