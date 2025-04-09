@@ -6,7 +6,7 @@ class DayOfWeek
 public:
     void getData()
     {
-        cout << "Enter a number (1-7) to get the corresponding day of the week: ";
+        cout << "Enter a number between (1-7) to get the corresponding day of the week: ";
         cin >> day;
     }
     void displayDay()
