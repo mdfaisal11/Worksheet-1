@@ -6,7 +6,7 @@ class BouncyNumber
 public:
     void getData()
     {
-        cout << "Enter a positive integer: ";
+        cout << "Enter the positive integer: ";
         cin >> num;
     }
     bool checkBouncy()
