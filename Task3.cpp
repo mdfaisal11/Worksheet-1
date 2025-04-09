@@ -37,7 +37,7 @@ public:
         }
         else if (seats[row - 1][col - 1] == 'X')
         {
-            cout << "Seat already booked! Choose another"<<endl;
+            cout << "Seat already booked! Choose another one"<<endl;
         }
         seats[row - 1][col - 1] = 'X';
         cout << "Seat booked successfully!"<<endl;
